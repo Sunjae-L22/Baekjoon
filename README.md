@@ -1,2 +1,2 @@
 # Baekjoon
-Practicing python only as a hobby :)
+취미생활
